@@ -3,7 +3,7 @@
 
 AUTHOR = 'Hongfang'
 SITENAME = 'My First Site'
-SITEURL = ''
+SITEURL = 'https://github.com/xuhf0429/xuhf0429.github.io'
 
 PATH = 'content'
 

@@ -10,7 +10,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://xuhf0429.github.io/cmput404-lab5'
+SITEURL = 'https://github.com/xuhf0429/xuhf0429.github.io'
 OUTPUT_PATH = 'docs/'
 RELATIVE_URLS = False
 
