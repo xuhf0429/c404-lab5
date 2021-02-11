@@ -11,7 +11,6 @@ from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
 SITEURL = 'https://github.com/xuhf0429/xuhf0429.github.io'
-OUTPUT_PATH = 'docs/'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
